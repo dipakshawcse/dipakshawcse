@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipak Shaw</h1>
 <h3 align="center">Seasoned Data Engineer: Empowering Businesses with Data Insights</h3>
 
-- 🌱 I’m currently learning **OpenAI**
+- 🌱 I’m currently Building AI Ready Data.
 
-- 📝 I regularly write articles on [https://www.bigdataprogrammers.com](https://www.bigdataprogrammers.com)
+- 📝 I regularly write articles on Medium https://dipakshawcse.medium.com/.
 
 - 💬 Ask me about **data engineering, Big Data, Data Processing, Spark, Databricks, Azure, Hadoop etc**
 
